@@ -161,8 +161,8 @@ __Key AWS Service__ — Cost Explorer.
 
 __Main functions of Route53__ —
 1. Register domain names.
-2. Route internet traffic to the resources for your domain.
-3. Check the health of your resources.
+2. Route internet traffic to the resources for your domain
+3. Check the health of your resources
 
 It's not used to _distribute_ traffic.
 
