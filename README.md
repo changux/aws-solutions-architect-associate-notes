@@ -1,6 +1,6 @@
 # Notes for AWS Certified Solutions Architect Associate
 
-I recently got the AWS solutions architect associate certificate in July 2019, and wanted to share my notes with anyone who might benefit from it. The path I followed was
+I recently got the AWS solutions architect associate certificate in Jan 2019, and wanted to share my notes with anyone who might benefit from it. The path I followed was
 
 - Go through the [ACloudGuru course](https://click.linksynergy.com/deeplink?id=aosskmXRdYk&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Faws-certified-solutions-architect-associate%2F).
 - Attempt the [Whizlabs practice tests](https://www.whizlabs.com/aws-solutions-architect-associate/). After each test, note down the concepts I had difficulties with. 
